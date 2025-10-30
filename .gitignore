@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.env/
+.venv/
+.students.db
+# Ignore local SQLite databases
+*.db
