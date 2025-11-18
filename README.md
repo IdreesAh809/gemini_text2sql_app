@@ -2,7 +2,6 @@
 
 ## [Live Demo](https://idreesah809-gemini-text2sql-app-app-xiloyv.streamlit.app/)
 
-
 This project is a simple Streamlit application that converts natural language questions into SQL queries using Google Gemini and retrieves data from a SQLite database.
 
 ## Features
